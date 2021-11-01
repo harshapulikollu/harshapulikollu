@@ -5,8 +5,8 @@
  -->
 Glimpse of myself:
 
-- 🔭 Associate Professional Application Delivery at DXC Technology.
-- 🔭 I’m currently working on Flutter, React, Node.js.
+- 🔭 SDE at Captain Fresh.
+- 🔭 Works on Flutter, React.
 <!-- - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... 
