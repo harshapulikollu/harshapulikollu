@@ -5,8 +5,8 @@
  -->
 Glimpse of myself:
 
-- 🔭 SDE at Captain Fresh.
-- 🔭 Works on Flutter, React.
+- 🔭 Distinguished Engineer at MoneyPlanned.
+- 🔭 Works on Flutter, React, GoLang.
 <!-- - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... 
