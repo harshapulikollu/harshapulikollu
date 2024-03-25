@@ -5,7 +5,7 @@
  -->
 Glimpse of myself:
 
-- 🔭 Distinguished Engineer at MoneyPlanned.
+- 🔭 Ex Senior Mobile Engineer at FireKamp,|| Fullstack Mobile Engineer at MoneyPlanned || SDE(mobile) at CaptainFresh || AP1 at DXC Technology.
 - 🔭 Works with Flutter, React, GoLang, DynamoDB, MongoDB, GRPC
 <!-- - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
